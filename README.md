@@ -1,3 +1,6 @@
+# NOTE
+This repository has been deprecated. Use https://github.com/pchero/voipbin-gitlab_runner
+
 # gitlab-runner
 Basic gitlab-runner for voipbin
 
